@@ -9,5 +9,5 @@ https://download.virtualbox.org/virtualbox/5.2.26/Oracle_VM_VirtualBox_Extension
 4. Install Windows with .iso files https://www.microsoft.com/ru-ru/software-download/windows10 (to install .iso fileF12 -> Ipad viev mode -> Restart page)
 5. Update, driver installation, clean up.
 6. Create a shot for Virtual Machine.
-7. visual studio community 2017
+7. visual studio community 2017 https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15
 8. For start only .net without any change
