@@ -5,4 +5,6 @@ https://download.virtualbox.org/virtualbox/5.2.26/Oracle_VM_VirtualBox_Extension
 
 1. Install VB with default settings, add plugin Extention Pack
 2. Create Virtual Machine for Windows 10 (if you dont have 64 bit version, you must turn on virtualization in your pc bios settings)
-3. 
+3. Choose 4 gb RAM memmory and 40 gb fixed virtual disk
+4. Install Windows with .iso files https://www.microsoft.com/ru-ru/software-download/windows10 (to install .iso fileF12 -> Ipad viev mode -> Restart page)
+5.
