@@ -18,4 +18,4 @@
 18. Changed quick settings layout.
 19. In project propeties i could changed version number, author.
 20. In build section i turn off 32 bit preffered
-21.
+21. To button action added action with text on mouse enter and mouse leave.
